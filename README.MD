@@ -42,4 +42,4 @@
 
   ## Preview
 
-  <img src="Preview.png">
+  <img src="./assets/Preview.png">
